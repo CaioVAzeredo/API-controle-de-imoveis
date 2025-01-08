@@ -7,3 +7,4 @@ uma API para conectar ao banco de dados com informações dos usuários e imóve
 3. Commit as mudanças: `git commit -m 'Adiciona nova feature'`.
 4. Faça o push para sua branch: `git push origin feature/nova-feature`.
 5. Abra um Pull Request.
+6. Vitor
