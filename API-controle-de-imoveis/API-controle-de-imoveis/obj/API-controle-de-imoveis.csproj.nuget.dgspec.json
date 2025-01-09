@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\PROJETO-CONTROLE-DE-IMOVEIS\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis.csproj": {}
+    "C:\\Users\\cacal\\source\\repos\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\PROJETO-CONTROLE-DE-IMOVEIS\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis.csproj": {
+    "C:\\Users\\cacal\\source\\repos\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\PROJETO-CONTROLE-DE-IMOVEIS\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis.csproj",
+        "projectUniqueName": "C:\\Users\\cacal\\source\\repos\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis.csproj",
         "projectName": "API-controle-de-imoveis",
-        "projectPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\PROJETO-CONTROLE-DE-IMOVEIS\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis.csproj",
+        "projectPath": "C:\\Users\\cacal\\source\\repos\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis.csproj",
         "packagesPath": "C:\\Users\\cacal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\PROJETO-CONTROLE-DE-IMOVEIS\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis\\obj\\",
+        "outputPath": "C:\\Users\\cacal\\source\\repos\\API-controle-de-imoveis\\API-controle-de-imoveis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

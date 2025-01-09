@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-controle-de-imoveis", "API-controle-de-imoveis\API-controle-de-imoveis.csproj", "{E2F00614-5FE0-4F46-BCDE-54C9A388F36C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-controle-de-imoveis", "API-controle-de-imoveis\API-controle-de-imoveis.csproj", "{E61E5BAA-D855-433F-825B-80DFD55B1E50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E2F00614-5FE0-4F46-BCDE-54C9A388F36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E2F00614-5FE0-4F46-BCDE-54C9A388F36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E2F00614-5FE0-4F46-BCDE-54C9A388F36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E2F00614-5FE0-4F46-BCDE-54C9A388F36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E61E5BAA-D855-433F-825B-80DFD55B1E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61E5BAA-D855-433F-825B-80DFD55B1E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61E5BAA-D855-433F-825B-80DFD55B1E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61E5BAA-D855-433F-825B-80DFD55B1E50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0BB6E15F-E4B3-44B9-A7A7-4C646CEA336F}
+		SolutionGuid = {BE22164B-487C-49A6-8CF1-3AADA23B8F96}
 	EndGlobalSection
 EndGlobal

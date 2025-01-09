@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "sbHqoD1J0Ro=",
+  "dgSpecHash": "ptA9rw4QGKg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cacal\\Documents\\ESTUDO\\PROJETOS\\PROJETO-CONTROLE-DE-IMOVEIS\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\cacal\\source\\repos\\API-controle-de-imoveis\\API-controle-de-imoveis\\API-controle-de-imoveis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cacal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\cacal\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\cacal\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\cacal\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\cacal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\cacal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
   "logs": []
 }
